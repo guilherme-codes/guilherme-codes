@@ -1,6 +1,7 @@
 ### Hi there. I'm Gui 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&card_width=400&logoColor=white&link=https://www.linkedin.com/in/guilherme-cazaroto)](https://www.linkedin.com/in/guilherme-cazaroto)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&card_width=400&logoColor=white&link=
+https://www.linkedin.com/in/guilherme-guimaraes-dev)](
+https://www.linkedin.com/in/guilherme-guimaraes-dev)
 I am a software developer and frontend specialist with over 10 years of experience.
 
 I consider myself a Full Stack developer capable of participating in the entire software development and engineering process, from requirements gathering, prototyping, and coding (both backend and frontend) to DevOps processes and application monitoring.
