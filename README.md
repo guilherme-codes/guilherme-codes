@@ -20,7 +20,7 @@ As a developer, my main goal is to build the interface designed by the UX/UI tea
 When I'm not coding, I enjoy spending time with family and friends. Additionally, I am passionate about music, cinema, and literature.
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind,materialui,vuetify,git,express,php,laravel,mongodb,mysql,docker,jest,cypress,bootstrap,graphql,jquery,linux,ps&theme=light)](https://github.com/guicazaroto#skills)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind,materialui,vuetify,git,express,php,laravel,mongodb,mysql,docker,jest,cypress,bootstrap,graphql,jquery,linux,ps&theme=light)](https://github.com/guilherme-codes#skills)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&card_width=1000)  
 
